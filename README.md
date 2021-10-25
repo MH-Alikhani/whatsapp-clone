@@ -1,2 +1,2 @@
-#WhatsApp clone author:
-This app developed by Mohammad Hosein alikhani
+# This app developed with React and Firebase
+Developed by Mohammad Hosein Alikhani
